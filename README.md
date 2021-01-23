@@ -4,7 +4,7 @@ to aid in managing environmental conditions
 for plants and other photosynthetic organisms.
 
 Hoping to add many features including but not limited to:
-- Set-point and scheduled temperature maintenance via GPIO with multiple zones multiple light zones.
+- Set-point and scheduled temperature maintenance via GPIO with multiple temp & light zones.
 - Moisture and pH measurement, automated watering and pH balancing via GPIO.
 - Configurable camera settings (exposure, warmth for different lighting, focus, etc).
 
